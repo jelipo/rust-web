@@ -13,11 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97c15b28-ac71-46bc-9cd7-123090b70395" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +35,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
-    <property name="settings.editor.selected.configurable" value="inlay.hints.Rust" />
+    <property name="settings.editor.selected.configurable" value="language.rust" />
   </component>
   <component name="RunManager">
     <configuration name="Run rust-web" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
@@ -65,6 +63,7 @@
     </recent_temporary>
   </component>
   <component name="RustProjectSettings">
+    <option name="macroExpansionEngine" value="NEW" />
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
     <option name="version" value="2" />
   </component>
@@ -83,6 +82,7 @@
       <workItem from="1586358946697" duration="11000" />
       <workItem from="1586358974191" duration="226000" />
       <workItem from="1586361040051" duration="1324000" />
+      <workItem from="1586757884600" duration="263000" />
     </task>
     <servers />
   </component>
@@ -122,9 +122,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1872" height="339" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586362930942" />
-    <state x="461" y="180" key="SettingsEditor" timestamp="1586359162086">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="451" y="172" key="SettingsEditor" timestamp="1586757973222">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="451" y="172" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586757973222" />
     <state x="461" y="180" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1586359162086" />
     <state x="717" y="391" key="cloudConfig.PluginsDialog" timestamp="1586359178147">
       <screen x="0" y="0" width="1920" height="1080" />
